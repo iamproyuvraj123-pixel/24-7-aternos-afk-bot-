@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "madarasenpaii.aternos.me
-",
+    "ip": "madarasenpaii.aternos.me",
     "port": 20216,
     "version": "1.20.1",
     "try-creative": false
